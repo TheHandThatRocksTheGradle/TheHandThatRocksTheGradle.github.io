@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   See him reprogram his brain from LAMP to Champ!
   Seriously what have I gotten myself into?
 author: TheHandThatRocksTheGradle
-logo: /static/img/logo.png
+logo: /static/img/Logo.png
 github: https://github.com/TheHandThatRocksTheGradle
 about: Budding developer
 urls:
