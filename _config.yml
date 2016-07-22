@@ -23,7 +23,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/TheHandThatRocksTheGradle
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
@@ -43,7 +43,7 @@ social:
       link: '#'
 
 share:
-  twitter_username: \#
+  twitter_username: 'GradleRocker'
   fb_appid: 000000000000
 
 
