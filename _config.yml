@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Seriously what have I gotten myself into?
 author: TheHandThatRocksTheGradle
 logo: /static/img/Logo.png
+url: https://thehandthatrocksthegradle.github.io
+avatar: /assets/avatar.jpeg
 github: https://github.com/TheHandThatRocksTheGradle
 about: Budding developer
 urls:
