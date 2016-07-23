@@ -10,6 +10,7 @@ url: https://thehandthatrocksthegradle.github.io
 avatar: /assets/avatar.jpeg
 github: https://github.com/TheHandThatRocksTheGradle
 about: Budding developer
+disqus_shortname: thehandthatrocksthegradle
 urls:
     - text: Home
       url: /
