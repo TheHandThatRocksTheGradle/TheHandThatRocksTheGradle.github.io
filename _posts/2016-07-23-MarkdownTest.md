@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Markdown Test"
+date:   2016-07-23 13:50:39
+description: Testing the auto-markdown Script.
+thumbnail: /assets/VMWareQuick.png
+categories: testing
+---
 # Test
 
 **This is a** test of the markdown tool. I want to see if I can use this to create blog posts.
